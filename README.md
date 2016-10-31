@@ -1,1 +1,1 @@
-playerkit-web
+playerkit-web2
